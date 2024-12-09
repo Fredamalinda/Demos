@@ -1,0 +1,12 @@
+AD Demo
+8th December 2024
+
+OVERVIEW
+This is a demo of my knowledge of Active Directory with VMware Workstation virtualization. I will be using Windows 2022 for the DC server, 
+
+Tasks 
+I will create a logical diagram to show the structure of the architecture for this demonstration.
+VMware and Windows 2022 are already downloaded. 
+Set up ADDS (Active Directory Domain Services) and make it the DC (Domain Controller) 
+Set up Users and Groups 
+Install and configure Sysmon & Splunk
