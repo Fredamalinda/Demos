@@ -7,4 +7,105 @@ New RHCSA curriculum
 -record for explanation 
   -have Q&A after
 -guest teaching visit
-meet with nonprofit
+meet with nonprofit MAB Wellness Group and distribute the proceeds to them 
+https://www.mabwellnessoutreach.org
+
+
+1. Define The Audience
+	•	Skill Level: Are they complete beginners, IT professionals looking to upskill, or somewhere in between?
+	•	Goals: Is the primary goal to pass the RHCSA exam, or is it to build practical skills for job readiness?
+	•	Resources: What resources do your students have access to (e.g., a laptop, internet, virtual machines)?
+
+2. Create a Syllabus
+
+Your syllabus is your roadmap. Here’s a possible structure based on Sander van Vugt’s RHEL9 book:
+
+Month 1: Linux Fundamentals
+	•	Introduction to Linux and RHEL9
+	•	Basic commands and shell navigation
+	•	File system hierarchy and permissions
+	•	Text file management with vi and nano
+
+Month 2: Users and Groups
+	•	Managing users and groups
+	•	Understanding and modifying permissions
+	•	Special permissions (sticky bit, SUID, SGID)
+
+Month 3: Software Management
+	•	Using yum and dnf for package management
+	•	Managing repositories
+	•	Installing and updating software
+
+Month 4: System Administration
+	•	Process management
+	•	Scheduling tasks with cron and at
+	•	Understanding systemd and managing services
+	•	Networking basics: nmcli, ip, firewalld
+
+Month 5: Storage Management
+	•	Partitioning and managing file systems
+	•	Logical Volume Management (LVM)
+	•	Mounting and unmounting storage
+	•	Understanding swap space
+
+Month 6: Advanced Topics
+	•	Configuring SSH and securing the system
+	•	Setting up web servers (e.g., Apache, Nginx)
+	•	Managing SELinux
+	•	Basic scripting for automation
+
+July: RHCSA Exam Prep
+	•	Practice hands-on labs
+	•	Mock exams simulating the RHCSA
+	•	Focus on troubleshooting and time management
+
+3. Materials and Resources
+	•	Books and Documentation:
+	•	Sander van Vugt’s RHEL9 book
+	•	RHEL official documentation
+	•	Hands-On Labs:
+	•	Virtual machines for practice (e.g., VirtualBox, VMware, or KVM)
+	•	Cloud-based environments (AWS, Azure, or GCP)
+	•	Tools:
+	•	Laptops or desktops with sufficient resources for VMs
+	•	Pre-configured lab instructions for exercises
+
+4. Create Lesson Plans
+
+For each session, include:
+	•	Objective: What students will learn.
+	•	Topics: Key points to cover.
+	•	Hands-On Tasks: Practice exercises or labs.
+	•	Resources: Links to tutorials, documentation, or videos.
+
+5. Interactive Teaching Tools
+	•	Use tools like Zoom or Google Meet for virtual classes.
+	•	Share slides or use collaborative tools like Google Docs for notes.
+	•	Use GitHub or a shared drive to store course materials and assignments.
+
+6. Assignments and Assessments
+	•	Weekly assignments to reinforce topics.
+	•	Regular quizzes to assess understanding.
+	•	Projects (e.g., configure a web server, create a backup script) to simulate real-world tasks.
+
+7. Build a Community
+	•	Create a Slack or Discord group for discussions and Q&A.
+	•	Encourage peer collaboration and group assignments.
+
+8. Plan for Troubleshooting
+
+Students may encounter technical issues, so prepare:
+	•	Guides on how to set up their practice environment.
+	•	A FAQ document for common problems.
+	•	Dedicated time for Q&A and troubleshooting.
+
+9. Certification Guidance
+	•	Explain the exam structure, objectives, and requirements.
+	•	Provide tips for time management and exam strategies.
+	•	Recommend additional resources like practice exams or labs.
+
+10. Feedback and Improvement
+	•	Collect feedback after each month to adjust the pace and topics.
+	•	Encourage students to share what’s working and what’s not.
+
+Let me know if you’d like help drafting a syllabus, creating lesson plans, or preparing teaching materials!
